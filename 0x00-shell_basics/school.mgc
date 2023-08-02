@@ -1,2 +1,3 @@
 #!/bin/bash
-0 thisisaschoolfile: School data ASCII text
+0 thisisaschoolfile: School data 
+thisisatextfile: ASCII text
